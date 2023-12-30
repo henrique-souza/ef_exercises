@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIiKn3nL6wcrplR6Yxnz90jj/FTUYYEPltp+ZTfh//eaz7TNyRhE4QvjEEmxlO4Gf5wcbQcplNtbOkm4Pq99Tg==",
+  "success": true,
+  "projectFilePath": "/home/henrique-souza/projects/ef_exercises/PizzaStore/PizzaStore.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique-souza/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
