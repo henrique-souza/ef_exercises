@@ -28,6 +28,5 @@
 /home/henrique-souza/projects/ef_exercises/PizzaStore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/henrique-souza/projects/ef_exercises/PizzaStore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/henrique-souza/projects/ef_exercises/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.AssemblyReference.cache
-/home/henrique-souza/projects/ef_exercises/PizzaStore/obj/Debug/net8.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 /home/henrique-souza/projects/ef_exercises/PizzaStore/obj/Debug/net8.0/PizzaStore.sourcelink.json
 /home/henrique-souza/projects/ef_exercises/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.CopyComplete
