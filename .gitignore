@@ -396,13 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-PizzaStore/obj/Debug/net8.0/refint/PizzaStore.dll
-PizzaStore/obj/Debug/net8.0/PizzaStore.AssemblyInfo.cs
-PizzaStore/obj/Debug/net8.0/PizzaStore.AssemblyInfoInputs.cache
-PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.FileListAbsolute.txt
-PizzaStore/obj/Debug/net8.0/PizzaStore.dll
-PizzaStore/obj/Debug/net8.0/PizzaStore.pdb
-PizzaStore/obj/Debug/net8.0/ref/PizzaStore.dll
-PizzaStore/obj/Debug/net8.0/refint/PizzaStore.dll
-PizzaStore/bin/Debug/net8.0/PizzaStore.dll
-PizzaStore/bin/Debug/net8.0/PizzaStore.pdb
