@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 
-// Parei na unidade 6 - 'Adicionar o EF Core ao projeto'
-
 namespace PizzaStore.Models
 {
     public class Pizza
@@ -9,5 +7,10 @@ namespace PizzaStore.Models
         public int Id { get; set; }
         public string? Name { get; set; }
         public string? Description { get; set; }
+    }
+
+    class PizzaDb(DbContextOptions options) : DbContext(options)
+    {
+        public DbSet<Pizza> Pizzas { get; set; } = null!;
     }
 }
