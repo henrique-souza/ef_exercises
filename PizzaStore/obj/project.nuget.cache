@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CzrNkTefNLwz3yRjc6C9lvK6+WU1Ogtctr2cmeJB9jpSx4cRSXEh87ckRMoyA4A3V6QwVXkQiEVd4v3mjBdItg==",
+  "dgSpecHash": "KVqPYcWJCL/wppRN7S357lqPHy798IdfLbLyXeDvHyP4ZLAim1uSvj6LMciOAseff1xuMf5/NFUIyDFODZpLFw==",
   "success": true,
   "projectFilePath": "/home/henrique-souza/projects/ef_exercises/PizzaStore/PizzaStore.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,7 @@
     "/home/henrique-souza/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/henrique-souza/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/home/henrique-souza/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "/home/henrique-souza/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+    "/home/henrique-souza/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

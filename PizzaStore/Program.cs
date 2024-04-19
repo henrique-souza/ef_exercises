@@ -58,6 +58,23 @@ app.MapPut(
     }
 );
 
+app.MapDelete(
+    "/pizza/{id}",
+    async (PizzaDb db, int id) =>
+    {
+        var pizza = await db.Pizzas.FindAsync(id);
+
+        if (pizza is null)
+        {
+            return Results.NotFound();
+        }
+
+        db.Pizzas.Remove(pizza);
+        await db.SaveChangesAsync();
+        return Results.Ok();
+    }
+);
+
 // Parei em 'Testar PUT'
 
 // O código abaixo faz paste do arquivo (./Db.cs)
